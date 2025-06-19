@@ -1,0 +1,17 @@
+unaffordable housing
+natural language processing is fun
+tokenization improves NLP performance
+deep learning models require a lot of data
+generative models can produce realistic text
+neural networks learn from examples
+transformers use attention mechanisms
+language models are pre-trained on massive datasets
+BERT and GPT are popular NLP architectures
+machine translation is a classic NLP task
+text summarization condenses information
+question answering systems understand queries
+word embeddings capture semantic meaning
+subword tokenization handles rare words
+sentencepiece segments text effectively
+training tokenizers requires representative data
+AI systems benefit from clean tokenized input
